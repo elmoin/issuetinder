@@ -1,4 +1,8 @@
-# Elm App
+# IssueTinder
+
+An experimental webapp to like or dislike issues from a github-repo we built in the Hack Night of october 2018.
+
+----------------------------------------
 
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
